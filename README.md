@@ -46,6 +46,6 @@ I am a 19 y/o developer currently working towards a CS degree </br>
    
 <p align="center">
   
-  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='Twitter' height='40'>](https://twitter.com/bojamhorsejack)
+  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='Twitter' height='40'>](https://twitter.com/dev_yukki)
    
 </p>
