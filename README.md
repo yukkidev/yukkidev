@@ -18,7 +18,7 @@ I am a 19 y/o developer currently working towards a CS degree</br>
 <p align="center">
 </p>
 
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-around";>
 <img alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 <img alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"/>
 <img alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
