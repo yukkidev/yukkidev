@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=f2f21b&width=435&lines=Welcome+User;Yukki's+GitHub+Profile)](https://github.com/yukkidev/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=f2f21b&width=435&lines=Welcome+User;yukki's+GitHub+Profile)](https://github.com/yukkidev/)
 
 
 # <h1 align="center"> ABOUT ME </h1>
