@@ -4,7 +4,7 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?color=f2f21b&size=30&center=true&lines=Developer;Many+Languages"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=f2f21b&size=30&center=true&lines=Developer;Always+Learning;Many+Projects"></a>
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=yukkidev">
@@ -12,7 +12,7 @@
 
 <img src="https://giffiles.alphacoders.com/146/14634.gif" width="300"/>
 
-I am a 19 y/o developer currently working towards a CS degree </br>
+I am a 19 y/o developer currently working towards a CS degree</br>
 
 ## ⭐Languages
 <p align="center">
@@ -28,7 +28,6 @@ I am a 19 y/o developer currently working towards a CS degree </br>
 ## 📊Profile Stats 
 <p align="center">
 </p>
-
 
 # <table width="100%" align="center">
   <tr>
