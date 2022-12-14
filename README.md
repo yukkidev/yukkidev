@@ -12,7 +12,7 @@
 
 <img src="https://giffiles.alphacoders.com/146/14634.gif" width="300"/>
 
-I am a 19 y/o developer currently working towards a CS degree</br>
+I am a 20 y/o developer currently working towards a CS degree</br>
 
 ## ⭐Languages
 <p align="center">
