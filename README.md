@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=yukkidev">
 </p>
 
-<img src="https://giffiles.alphacoders.com/146/14634.gif" width="300"/>
+<img src="https://yukki.dev/rewired/images/gifs/lain_looking_dither.gif" width="300"/>
 
 i don't know what im doing :P</br>
 
