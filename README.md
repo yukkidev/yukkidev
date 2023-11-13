@@ -1,18 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=f2f21b&width=435&lines=Welcome+User;yukki's+GitHub+Profile)](https://github.com/yukkidev/)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1250&pause=1750&color=F7F7F7&center=true&random=false&width=435&lines=Welcome+%3A3;i+am+yukki!)](https://github.com/yukkidev)
 
 # <h1 align="center"> ABOUT ME </h1>
 
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?color=f2f21b&size=30&center=true&lines=Developer;Always+Learning;Many+Projects"></a>
-</p>
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=yukkidev">
+  <img src="https://komarev.com/ghpvc/?username=yukkidev">
 </p>
 
 <img src="https://giffiles.alphacoders.com/146/14634.gif" width="300"/>
 
-I am a 20 y/o developer currently working towards a CS degree</br>
+i don't know what im doing :P</br>
 
 ## ⭐Languages
 <p align="center">
