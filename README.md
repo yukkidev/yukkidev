@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=yukkidev">
 </p>
 
-<img src="https://yukki.dev/rewired/images/gifs/lain_looking_dither.gif" width="150" style="padding-left:150px;"/>
+<img src="https://yukki.dev/rewired/images/gifs/lain_looking_dither.gif" width="200"/>
 
 i don't know what im doing :P</br>
 
