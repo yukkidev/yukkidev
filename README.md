@@ -38,11 +38,3 @@ i don't know what im doing :P</br>
 <p align="left">
   <a href="https://github.com/yukkidev/WallChanger"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yukkidev&repo=WallChanger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/yukkidev/yt-playlist-to-mp3"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yukkidev&repo=yt-playlist-to-mp3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-
-## Socials
-   
-<p align="center">
-  
-  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='Twitter' height='30'>](https://twitter.com/dev_yukki)
-   
-</p>
