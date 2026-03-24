@@ -8,7 +8,7 @@
 
 <img src="https://yukki.dev/rewired/images/gifs/lain_looking_dither.gif" width="200"/>
 
-:3 hi i coder and i like code. but i mostly play video games instead of code DX it's ok! i code now :D
+:3 hi i coder and i like code.
 
 ## ⭐Languages
 <p align="center">
