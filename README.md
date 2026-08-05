@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=yukkidev">
 </p>
 
+I am a programmer and model evaluator. Welcome to my profile!
+
 <img src="https://yukki.dev/rewired/images/gifs/lain_looking_dither.gif" width="200"/>
 
 ## ⭐Languages
